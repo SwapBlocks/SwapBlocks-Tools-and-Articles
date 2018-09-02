@@ -11,44 +11,45 @@ We all know it’s hard to keep track of the links to 100’s of really useful c
 
 ## Adding a Repo
 
-Users can submit their links by logging an [issue](https://github.com/lwfcoin/LWF-Tommunity-Tools/issues/new/choose), make sure you first login.
+Users can submit their links by logging an [issue](https://github.com/SwapBlocks/SwapBlocks-Tools-and-Articles/issues/new/choose), make sure you first login.
 
 ## When will the links be added
 
 Tools will be updated each week. Bounties will be awarded to tools on a case by case basis and will be awarded based on impact of the pull requests, Issues logged, bugs found, new tools, upgrades to existing tools, api wrappers and documentation updates.  If there's a tool you'd like to create for a bounty reach out to swapblocks_lance in the [discord](https://discord.gg/cf8nv6M) #bounties channel or submit an issue.
 
+
 ## Community Tools
-- [Verifier tool by dutch pool](http://verifier.dutchpool.io/swapblocks/)
-- [GEOPS Vote Report](http://sbx-vote.geops.net/)
-- [Alphanet Explorer by GEOPS](https://sbx-exp.geops.net/)
-- [Latest Alphanet Snapshot](http://sbx-snap.geops.net/latest)
-- [Older Alphanet Snapshots](http://sbx-snap.geops.net)
+- <a href="http://verifier.dutchpool.io/swapblocks/" target="_blank">Verifier tool by dutch pool</a>
+- <a href="http://sbx-vote.geops.net/" target="_blank">[GEOPS Vote Report</a>
+- <a href="https://sbx-exp.geops.net/" target="_blank">Alphanet Explorer by GEOPS</a>
+- <a href="http://sbx-snap.geops.net/latest" target="_blank">Latest Alphanet Snapshot</a>
+- <a href="http://sbx-snap.geops.net" target="_blank">Older Alphanet Snapshots</a>
 
 ## Official Tools
 
-- [paper wallet](https://paper.swapblocks.io/)
-- [Ark desktop wallet](https://github.com/ArkEcosystem/desktop-wallet)
-- [Alphanet Explorer](https://sbx-exp.geops.net/)
-- [Alphanet API](https://api.swapblocks.io)
-- [Pre-ICO Site](https://ico.swapblocks.io)
-- [Swapblocks Commander](http://praedium.io/SWAPBlockscommander.sh)
-- [Bounty and Free Forging Spreadsheet](https://docs.google.com/spreadsheets/d/1UafQkWuhei3mOSk0SHpCRfWR7pZKrNgAoFRbo6yaAyA/edit?usp=sharing)
+- <a href="https://paper.swapblocks.io/" target="_blank">paper wallet</a>
+- <a hreft="https://github.com/ArkEcosystem/desktop-wallet" target="_blank">Ark desktop wallet</a>
+- <a href="https://sbx-exp.geops.net/" target="_blank">Alphanet Explorer</a>
+- <a href="https://api.swapblocks.io" target="_blank">Alphanet API</a>
+- <a href="https://ico.swapblocks.io" target="_blank">Pre-ICO Site</a>
+- <a href="http://praedium.io/SWAPBlockscommander.sh" target="_blank">Swapblocks Commander</a>
+- <a href="https://docs.google.com/spreadsheets/d/1UafQkWuhei3mOSk0SHpCRfWR7pZKrNgAoFRbo6yaAyA/edit?usp=sharing" target="_blank">Bounty and Free Forging Spreadsheet</a>
 
-- [Testnet Explorer](https://texplorer.swapblocks.io)
-- [Testnet API](https://tapi.swapblocks.io)
+- <a href="https://texplorer.swapblocks.io" target="_blank">Testnet Explorer</a>
+- <a href="https://tapi.swapblocks.io" target="_blank">Testnet API</a>
 
 
 ## Articles
-- [AMA Log from ARK's slack](https://www.reddit.com/r/ArkEcosystem/comments/99pgq3/log_of_ama_with_brandon_and_lance_from_swapblocks/)
-- [How to setup a swapblocks Alphanet node by Jaime79](https://medium.com/@jamiecupper/swapblocks-node-installation-guide-alphanet-b7314c07149)
-- [Swapblocks Testnet setup guide by Jaime79](https://medium.com/@jamiecupper/swapblocks-node-installation-guide-testnet-8132cb7cdc04)
-- [Swapblocks initial server preparation guide by Jaime79](https://medium.com/@jamiecupper/swapblocks-initial-server-preparation-guide-a77d55ad9a14)  
-- [Original Bitcointalk announcement](https://bitcointalk.org/index.php?topic=3456464.0)
+- <a href="https://www.reddit.com/r/ArkEcosystem/comments/99pgq3/log_of_ama_with_brandon_and_lance_from_swapblocks/" target="_blank">AMA Log from ARK's slack</a>
+- <a href="https://medium.com/@jamiecupper/swapblocks-node-installation-guide-alphanet-b7314c07149" target="_blank">How to setup a swapblocks Alphanet node by Jaime79</a>
+- <a href="https://medium.com/@jamiecupper/swapblocks-node-installation-guide-testnet-8132cb7cdc04" target="_blank">Swapblocks Testnet setup guide by Jaime79</a>
+- <a href="https://medium.com/@jamiecupper/swapblocks-initial-server-preparation-guide-a77d55ad9a14" target="_blank">Swapblocks initial server preparation guide by Jaime79</a>
+- <a href="https://bitcointalk.org/index.php?topic=3456464.0" target="_blank">Original Bitcointalk announcement</a>
 
 ## Community Repo's
 
 ## Official Repo's
-- [node](https://github.com/SwapBlocks/swapblocks-node)
-- [explorer](https://github.com/SwapBlocks/explorer/)
-- [api-documentation](https://github.com/SwapBlocks/api_docs/)
-- [paper wallet](https://github.com/SwapBlocks/paper-wallet/)
+- <a href="https://github.com/SwapBlocks/swapblocks-node" target="_blank">node</a>
+- <a href="https://github.com/SwapBlocks/explorer/" target="_blank">explorer</a>
+- <a href="https://github.com/SwapBlocks/api_docs/" target="_blank">api-documentation</a>
+- <a href="https://github.com/SwapBlocks/paper-wallet/" target="_blank">paper wallet</a>

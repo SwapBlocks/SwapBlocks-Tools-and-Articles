@@ -1,4 +1,5 @@
 ## A central repository, with links to all Swapblocks tools and articles.
+![alt-text](https://i.imgur.com/OYWfKRJ.png)
 
 Community developed tools are very important for swapblocks and we want to support talented developers from all coding backgrounds. 
 

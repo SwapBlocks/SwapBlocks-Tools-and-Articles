@@ -20,7 +20,7 @@ Tools will be updated each week. Bounties will be awarded to tools on a case by 
 
 ## Community Tools
 - <a href="http://verifier.dutchpool.io/swapblocks/" target="_blank">Verifier tool by dutch pool</a>
-- <a href="http://sbx-vote.geops.net/" target="_blank">[GEOPS Vote Report</a>
+- <a href="http://sbx-vote.geops.net/" target="_blank">GEOPS Vote Report</a>
 - <a href="https://sbx-exp.geops.net/" target="_blank">Alphanet Explorer by GEOPS</a>
 - <a href="http://sbx-snap.geops.net/latest" target="_blank">Latest Alphanet Snapshot</a>
 - <a href="http://sbx-snap.geops.net" target="_blank">Older Alphanet Snapshots</a>

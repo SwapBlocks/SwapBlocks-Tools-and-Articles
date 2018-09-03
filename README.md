@@ -29,7 +29,7 @@ Tools will be updated each week. Bounties will be awarded to tools on a case by 
 
 - <a href="https://paper.swapblocks.io/" target="_blank">paper wallet</a>
 - <a hreft="https://github.com/ArkEcosystem/desktop-wallet" target="_blank">Ark desktop wallet</a>
-- <a href="https://sbx-exp.geops.net/" target="_blank">Alphanet Explorer</a>
+- <a href="https://explorer.swapblocks.io/" target="_blank">Alphanet Explorer</a>
 - <a href="https://api.swapblocks.io" target="_blank">Alphanet API</a>
 - <a href="https://ico.swapblocks.io" target="_blank">Pre-ICO Site</a>
 - <a href="http://praedium.io/SWAPBlockscommander.sh" target="_blank">Swapblocks Commander</a>

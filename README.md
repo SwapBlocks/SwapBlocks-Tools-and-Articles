@@ -40,6 +40,7 @@ Tools will be updated each week. Bounties will be awarded to tools on a case by 
 
 
 ## Articles
+- <a href="https://view.publitas.com/swapblocks/swapblocks_wp/page/1" target="_blank">Whitepaper</a>
 - <a href="https://www.reddit.com/r/ArkEcosystem/comments/99pgq3/log_of_ama_with_brandon_and_lance_from_swapblocks/" target="_blank">AMA Log from ARK's slack</a>
 - <a href="https://medium.com/@jamiecupper/swapblocks-node-installation-guide-alphanet-b7314c07149" target="_blank">How to setup a swapblocks Alphanet node by Jaime79</a>
 - <a href="https://medium.com/@jamiecupper/swapblocks-node-installation-guide-testnet-8132cb7cdc04" target="_blank">Swapblocks Testnet setup guide by Jaime79</a>

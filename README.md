@@ -35,8 +35,7 @@ Tools will be updated each week. Bounties will be awarded to tools on a case by 
 - <a href="http://praedium.io/SWAPBlockscommander.sh" target="_blank">Swapblocks Commander</a>
 - <a href="https://docs.google.com/spreadsheets/d/1UafQkWuhei3mOSk0SHpCRfWR7pZKrNgAoFRbo6yaAyA/edit?usp=sharing" target="_blank">Bounty and Free Forging Spreadsheet</a>
 
-- <a href="https://texplorer.swapblocks.io" target="_blank">Testnet Explorer</a>
-- <a href="https://tapi.swapblocks.io" target="_blank">Testnet API</a>
+- <a href="https://mockup.swapblocks.io" target="_blank">Web Portal Mock Up</a>
 
 
 ## Articles

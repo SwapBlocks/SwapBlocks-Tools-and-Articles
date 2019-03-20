@@ -45,7 +45,10 @@ Tools will be updated each week. Bounties will be awarded to tools on a case by 
 - <a href="https://medium.com/@jamiecupper/swapblocks-node-installation-guide-testnet-8132cb7cdc04" target="_blank">Swapblocks Testnet setup guide by Jaime79</a>
 - <a href="https://medium.com/@jamiecupper/swapblocks-initial-server-preparation-guide-a77d55ad9a14" target="_blank">Swapblocks initial server preparation guide by Jaime79</a>
 - <a href="https://bitcointalk.org/index.php?topic=3456464.0" target="_blank">Original Bitcointalk announcement</a>
+- <a href="https://medium.com/@swapblocks_lance/swapblocks-update-march-2019-97602187ee03" target="_blank">March 2019 Blog Update</a>
 
+    
+    
 ## Community Repo's
 
 ## Official Repo's

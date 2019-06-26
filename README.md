@@ -31,7 +31,6 @@ Tools will be updated each week. Bounties will be awarded to tools on a case by 
 - <a hreft="https://github.com/ArkEcosystem/desktop-wallet" target="_blank">Ark desktop wallet</a>
 - <a href="https://explorer.swapblocks.io/" target="_blank">Alphanet Explorer</a>
 - <a href="https://api.swapblocks.io" target="_blank">Alphanet API</a>
-- <a href="https://ico.swapblocks.io" target="_blank">Pre-ICO Site</a>
 - <a href="http://praedium.io/SWAPBlockscommander.sh" target="_blank">Swapblocks Commander</a>
 - <a href="https://docs.google.com/spreadsheets/d/1UafQkWuhei3mOSk0SHpCRfWR7pZKrNgAoFRbo6yaAyA/edit?usp=sharing" target="_blank">Bounty and Free Forging Spreadsheet</a>
 
